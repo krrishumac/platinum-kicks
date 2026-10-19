@@ -57,26 +57,28 @@ Screenshots of the application's user and administrator interfaces are available
 
 | Screen | Preview |
 |---|---|
-| Landing Page | `frmLanding.vb.png` |
-| Login Page | `frmLogin.vb.png` |
-| Registration Page | `frmRegister.vb.png` |
-| Shop Page | `frmShop.vb.png` |
-| Shopping Cart | `frmCart.vb.png` |
+| Landing Page | ![Landing Page](Screenshots/User/frmLanding.vb.png) |
+| Login Page | ![Login Page](Screenshots/User/frmLogin.vb.png) |
+| Registration Page | ![Registration Page](Screenshots/User/frmRegister.vb.png) |
+| Shop Page | ![Shop Page](Screenshots/User/frmShop.vb.png) |
+| Shopping Cart | ![Shopping Cart](Screenshots/User/frmCart.vb.png) |
 
 ### Admin Interface
 
 | Screen | Preview |
 |---|---|
-| Admin Dashboard | `frmAdminDashboard.vb.png` |
-| Add Product | `frmAddProduct.vb.png` |
-| Manage Products | `frmManageProducts.vb.png` |
-| View Orders | `frmViewOrders.vb.png` |
+| Admin Dashboard | ![Admin Dashboard](Screenshots/Admin/frmAdminDashboard.vb.png) |
+| Add Product | ![Add Product](Screenshots/Admin/frmAddProduct.vb.png) |
+| Manage Products | ![Manage Products](Screenshots/Admin/frmManageProducts.vb.png) |
+| View Orders | ![View Orders](Screenshots/Admin/frmViewOrders.vb.png) |
 
 ## 📄 Project Documentation
 
-The complete project documentation is available in the [`Documentation`](Documentation/) directory.
+The complete project report includes system analysis, feasibility study, data flow diagrams, database design, screen designs, testing procedures, implementation phases, limitations, and conclusion.
 
-It covers the project introduction, scope of work, existing and proposed systems, feasibility study, system features, hardware and software requirements, data flow diagrams, database layout, input and output screens, testing procedures, implementation phases, limitations, and conclusion.
+📘 **[View Project Documentation (PDF)](Documentation/Platinum-Kicks%20Documentation.pdf)**
+
+You can open the PDF directly on GitHub or download it for offline viewing.
 
 ## 🚀 Getting Started
 
